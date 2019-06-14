@@ -39,5 +39,7 @@ print(len(s))
 classmates = ('Michael', 'Bob', 'Tracy')
 
 
+# tuple 一种序列表叫元组 tuple一旦初始化就不能修改
+classmates = ('Michael', 'Bob', 'Tracy')
 
 
